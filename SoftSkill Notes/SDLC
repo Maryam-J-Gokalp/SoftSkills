@@ -1,0 +1,99 @@
+1. What is SDLC ?
+
+- A formalized framework describing activities and steps to develop/build
+    software.
+
+- Basically, SDLC is stands for Software Development Life Cycle.
+
+- It contains 6 steps/phases.
+
+1. Requirement Gathering
+2. Design
+3. Develop
+4. Test
+5. Release
+6. Maintenance
+
+
+--------------1--Requirement Gathering----------------------
+- In this step, the Product Owner (PO) and the business team
+  collects the requirements from the client.
+
+  ----------Business Team--------------
+  1. Project Manager
+  2. Product Owner
+  3. Business Analyst
+
+  Who is client/ stakeholders ?
+
+- who has the idea of the application.
+- who owns the app after building.
+- who spend money for build the app.
+
+ PO write  all the requirements into the document.(SRS)
+ SRS -> Software Requirement Specification
+
+ PO is voice the client. PO always work together with client.
+
+ PM has more than one application but PO has just one.
+
+if you write a good SRS, you must follow SMART criteria.
+----SMART--------------------------
+1. S pecific,
+2. M easurable,
+3. A chievable,
+4. R elevant,(Konuyla ilgili)
+5. T estable. ( test edilebilir)
+
+------------2--Designing-------------------------------------
+- Designers design the app ,
+design the prototype, design the blueprint
+according to SRS document.
+
+- Designers create design document -> SDS (Software Design Specification)
+
+- who performs ?
+- Designer
+
+---------------3--Coding---------------------------------------
+- Developers build the app in Dev Environment based on SRS and SDS
+
+- Developers perform/apply this step.
+
+- As a output -> Initial version of the app. -> v1
+
+- It is the longest SDLC step.
+
+-----------------4--Testing-----Quality Assurance-------------------
+
+- Test the software in the QA environment. https://qa.amazon.com
+
+- purpose: to find bugs or defects. bugfree app...
+
+- bugs or defect should be fixed by developers .
+
+- SDET compares actual result with the expected result.
+
+- What is bug?
+
+- Expected result doesn't match with the actual result.
+
+stg.amazon.com
+
+-----------------5--Deploy/ Release / Production-------------
+
+- End users use the app in the production environment.  https://amazon.com
+
+- End users find bug or defects in this step. !!! ???
+
+----------------6--Maintaining---------------------------------
+
+- Support team : Receive bug or defects from end users. Then fix it.
+
+- The client has new ideas about the app?
+
+- SDLC start again with the new requests.
+
+
+
+
