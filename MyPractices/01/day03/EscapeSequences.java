@@ -1,4 +1,4 @@
-package day03;
+package day05;
 
 /**
  * Created by Yasin DEĞER on 2/14/2022 1:10 AM
